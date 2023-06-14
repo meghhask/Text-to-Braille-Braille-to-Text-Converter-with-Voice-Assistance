@@ -1,8 +1,7 @@
 import tkinter as tk
 import pyttsx3
 from tkinter import messagebox
-from tkinter import filedialog
-import alphaToBraille, brailleToAlpha, printer
+import alphaToBraille, brailleToAlpha
 
 
 #Code for text to braille conversion
